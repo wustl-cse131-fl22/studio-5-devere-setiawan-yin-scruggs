@@ -64,4 +64,7 @@ public class DistanceBetweenTest {
 		assertEquals(50.0, Methods.distanceBetween(0.0, 30.0, 0.0, 40.0), 1e-5);
 	}
 
+	public void testpoints() {
+		
+	}
 }
